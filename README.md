@@ -1,1 +1,1 @@
-# Ohjelmoinnin perusteet
+# Ohjelmoinnin perusteet kurssin tehtävät tulevat tähän kansioon.
