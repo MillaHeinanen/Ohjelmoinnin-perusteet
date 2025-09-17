@@ -1,1 +1,0 @@
-Viikkotehtävät löytyvät brancheista.
